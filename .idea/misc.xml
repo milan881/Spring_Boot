@@ -4,8 +4,7 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/Hibernate/pom.xml" />
-        <option value="$PROJECT_DIR$/HibernateSave/pom.xml" />
+        <option value="$PROJECT_DIR$/HibernateRetrive/pom.xml" />
       </list>
     </option>
   </component>
